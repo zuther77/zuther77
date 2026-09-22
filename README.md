@@ -2,9 +2,7 @@
 
 I like to build and break things
 
-- 🔭 I’m currently working on - Application Tracking platform that sync with gmail, PaperTrader
-- 🌱 I’m currently learning - go, genAI, 
-- ⚡ Fun fact: I had 77 open chrome tabs on my phone
+- ⚡ Fun fact: I have 113 open chrome tabs on my phone
 
 ## 🔭 Currently Working On
 - 🚀 **[FormCheck](https://github.com/zuther77/FormCheck)** - App for checking exercise form for compound movements. Uses Yolo for pose check. Runs completely local.
